@@ -1,6 +1,6 @@
 //
-// 魔方陣
-//
+// 魔方陣 main program
+// 
 #include "Appli.h"
 
 main() {
