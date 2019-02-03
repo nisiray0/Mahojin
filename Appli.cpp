@@ -91,7 +91,7 @@ int Appli::go() {
         notend=mem_mahou->go();
     }
 
-    printf("\n魔方陣の数は%d個",mahounum);
+    printf("\n魔方陣の数は%d個\n",mahounum);
     return mahounum;
 }
 
